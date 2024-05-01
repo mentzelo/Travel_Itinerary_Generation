@@ -23,7 +23,8 @@ already provided to the user in the 'Clustered Data' folder. Using this data and
 you can follow along the in the 'Itinerary Generation with Gemini' notebook, reviewing the saved output.
 
 *************************************************************************************************************
-*****You will not be able to run the calls to the Gemini API unless you create your own private API key!*****
+*****You will not be able to run the calls to the Gemini API unless you create your own private API key******
+************************************ and run the file in Google CoLab****************************************
 *****For this reason we have saved the file with the output already generated for your convenience.**********
 *************************************************************************************************************
 
@@ -34,3 +35,6 @@ you can follow along the in the 'Itinerary Generation with Gemini' notebook, rev
 We have also included our first attempts to cluster the data in the 'Clustering with Metadata' folder where you
 can follow along our early data exploration and data engineering process.
 Lastly as a reminder, the Embed and Cluster.py file contains all the necessary functions to run the notebooks.
+
+If you would like a personalized travel itinerary yourself, please let me know and fill out the survey link
+(in the appendix of the report)and you will recieve a personalized Athens travel itinerary.
